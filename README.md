@@ -1,2 +1,2 @@
 # mkbootimg-phone-data
-Phones boot image information for mkbootimg
+Информация о  boot-образах телефонов/планшетов для mkbootimg
